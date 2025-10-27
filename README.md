@@ -89,7 +89,7 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 - 🌐 **Website:** [byrt.nl](https://byrt.nl)
 - 💼 **LinkedIn:** [michael-rademaker-01228a43](https://www.linkedin.com/in/michael-rademaker-01228a43)
-- 📧 **Email:** [Your email here]
+- 📧 **Email:** michael@byrt.nl
 - 🐙 **GitHub:** [@Miggets7](https://github.com/Miggets7)
 
 ## 💭 Philosophy
