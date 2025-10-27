@@ -72,11 +72,11 @@ Contributed to mobile console applications for IoT device management on Android 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Miggets7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=500" alt="GitHub Stats" />
+  <img src="https://github-stats.byrt.nl/api?username=Miggets7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=500" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miggets7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=500" alt="Top Languages" />
+  <img src="https://github-stats.byrt.nl/api/top-langs/?username=Miggets7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=500" alt="Top Languages" />
 </p>
 
 <p align="center">
