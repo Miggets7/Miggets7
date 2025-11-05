@@ -80,7 +80,7 @@ Contributed to mobile console applications for IoT device management on Android 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Miggets7&theme=tokyonight&hide_border=true&card_width=500" alt="GitHub Streak"/>
+  <img src="https://github-streaks.byrt.nl/?user=Miggets7&theme=tokyonight&hide_border=true&card_width=500" alt="GitHub Streak"/>
 </p>
 
 ## 📫 Let's Connect!
